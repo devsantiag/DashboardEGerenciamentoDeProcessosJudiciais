@@ -1,6 +1,5 @@
 # DashboardEGerenciamentoDeProcessosJudiciais
 
-DashboardEGerenciamentoDeProcessosJudiciais
 🚀 Sistema de Dashboard e Gerenciamento de Processos Judiciais desenvolvido em C# Windows Forms.
 
 📌 Sobre o projeto
